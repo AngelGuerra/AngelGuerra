@@ -1,8 +1,8 @@
 # 💫 Sobre mí:
 
-- 🔭 Actualmente trabajo en ITEISA como desarrollador Full Stack.
+- 🔭 Actualmente trabajo en Entelgy como analista técnico - desarrollador.
 - 👯 Aunque no tengo problema en trabajar en el frontend, mi preferencia es el backend.
-- 🌱 Principalmente utilizo CakePHP y React, pero siempre estoy dispuesto y con ganas de aprender algo nuevo.
+- 🌱 Principalmente utilizo Ruby y React, pero siempre estoy dispuesto y con ganas de aprender algo nuevo.
 - 🥷 Además de desarrollador soy Ninja y, en general, me gusta practicar deportes de contacto.
 - ♟️ También me gusta jugar al ajedrez, aunque lo tengo un poco abandonado.
 
@@ -12,8 +12,8 @@ Este perfil sólo es un breve resumen, si quieres saber más sobre lo que hago, 
 
 Apenas utilizo las redes sociales, básicamente sólo utilizo Twitter y prácticamente sólo de lectura.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-guerra-revilla)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/angellguerra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-guerra-revilla)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/angellguerra)
 
 # 💻 Stack tecnológico:
 
