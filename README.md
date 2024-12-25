@@ -1,40 +1,48 @@
-# 💫 Sobre mí:
+# 💫 Sobre mí
 
-- 🔭 Actualmente trabajo en Entelgy como analista técnico - desarrollador.
-- 👯 Aunque no tengo problema en trabajar en el frontend, mi preferencia es el backend.
-- 🌱 Principalmente utilizo Ruby y React, pero siempre estoy dispuesto y con ganas de aprender algo nuevo.
-- 🥷 Además de desarrollador soy Ninja y, en general, me gusta practicar deportes de contacto.
-- ♟️ También me gusta jugar al ajedrez, aunque lo tengo un poco abandonado.
+¡Hola! 👋 Soy Ángel Guerra, un desarrollador especializado en backend, aunque no me asusta explorar el frontend cuando es necesario.
 
-Este perfil sólo es un breve resumen, si quieres saber más sobre lo que hago, he hecho o quiero hacer, puedes echar un vistazo a [mi CV](https://angelguerra.me/cv/).
+- 🔭 Actualmente trabajo como **Analista Técnico - Desarrollador** en **Entelgy**.
+- 🌱 Mi stack principal incluye **Ruby** y **React**, pero siempre estoy buscando nuevos desafíos tecnológicos.
+- 👯 Prefiero trabajar en el backend, aunque disfruto colaborando en soluciones completas.
+- 🥷 Además del desarrollo, soy practicante de deportes de contacto (¡incluso ninja!) 🥋.
+- ♟️ Me encanta el ajedrez, aunque últimamente no he podido dedicarle tanto tiempo.
 
-## 🌐 Redes sociales:
+Este perfil es solo un vistazo rápido. Si quieres conocer más sobre mí, lo que hago y mis proyectos, visita mi [CV](https://angelguerra.me/cv/). 🚀
 
-Apenas utilizo las redes sociales, básicamente sólo utilizo Twitter y prácticamente sólo de lectura.
+## 🌐 Redes sociales
+
+No soy muy activo en redes sociales, pero puedes encontrarme en estas plataformas:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-guerra-revilla)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/angellguerra)
+[![X](https://img.shields.io/badge/@AngelLGuerra-000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/angellguerra)
 
-# 💻 Stack tecnológico:
+## 💻 Stack tecnológico
 
-Muy resumido, esto es lo que utilizo con más frecuencia en el trabajo o de manera personal:
+Aquí tienes un resumen de las tecnologías con las que trabajo con mayor frecuencia:
 
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### Backend
+![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+![Ruby on Rails](https://img.shields.io/badge/rails-D30001.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![CakePHP](https://img.shields.io/badge/cakePHP-D33C44.svg?style=for-the-badge&logo=cakephp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Plesk](https://img.shields.io/badge/plesk-384859.svg?style=for-the-badge&logo=plesk&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-7C3AED?style=for-the-badge&logo=astro&logoColor=white)
-![11ty](https://img.shields.io/badge/11ty-222222?style=for-the-badge&logo=eleventy&logoColor=white)
 
-# 📊 Estadísticas de GitHub:
+### Frontend
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Astro](https://img.shields.io/badge/Astro-7C3AED?style=for-the-badge&logo=astro&logoColor=white)
+
+### Bases de datos y herramientas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Otros
+![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+
+## 📊 Estadísticas de GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=AngelGuerra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
